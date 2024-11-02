@@ -123,6 +123,7 @@ function App()
       <input ref={social} type="number" placeholder="Enter the social"/>
       <button onClick={average}>Average</button>
       <input ref={result} type="number" readOnly/>
+      <h1>Hi modifying</h1>
     </>
   )
 }
